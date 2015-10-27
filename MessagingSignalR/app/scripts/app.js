@@ -69,5 +69,5 @@ angular
     $httpProvider.interceptors.push('AuthInterceptorService');
 
   }).value('$', window.jQuery)
-  .constant('serviceBaseAddress', 'http://messagingapi2.azurewebsites.net');
+  .constant('serviceBaseAddress', 'http://messagingSignalRAPI.azurewebsites.net');
 //.constant('serviceBaseAddress', 'http://localhost:49273');
