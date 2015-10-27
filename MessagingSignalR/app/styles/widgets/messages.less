@@ -1,0 +1,27 @@
+section#messaging{
+  & .row{
+    display: flex;
+    align-items: flex-end;
+    & .users{
+      display: inline;
+      & h3{
+        display: inline;
+      }
+    }
+  }
+  & .messages{
+    height: 550px;
+    border:1px solid grey;
+    background: lightgrey;
+  }
+  & .message{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px 10px 10px;
+  }
+  & .form-group{
+    display: flex;
+    background-color: @gray-dark;
+  }
+}

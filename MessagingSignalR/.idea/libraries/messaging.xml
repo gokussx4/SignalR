@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="messaging" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/bower_components/angular" />
+        <item url="file://$PROJECT_DIR$/bower_components/ui-router" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/bower_components/angular" />
+      <root url="file://$PROJECT_DIR$/bower_components/ui-router" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

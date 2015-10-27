@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0364f14c-a7eb-46fe-bd61-672c57697d1b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\ImageSample.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.Designer.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.sln" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ParameterAnnotation.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.unobtrusive.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.signalR-2.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Controllers\HelpController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate-vsdoc.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\IModelDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\BundleConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.signalR-2.2.0.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.Designer.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\HomeController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\CollectionModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\IdentityConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Controllers\HomeControllerTest.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Global.asax" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPageConfigurationExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\WebApiConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\AccountBindingModels.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\Register.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ApiDescriptionExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\ValuesController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\packages.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Models\HelpPageApiModel.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Project_Readme.html" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.unobtrusive.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Global.asax.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\IdentityModels.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\Api.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\EnumValueDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\Site.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.Release.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Shared\_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\Configuration.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.resx" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPage.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\MessageController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\App_Start\HelpPageConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Providers\ApplicationOAuthProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Properties\AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPageAreaRegistration.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Web.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.intellisense.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Controllers\ValuesControllerTest.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\packages.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Web.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.resx" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\FilterConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Results\ChallengeResult.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\XmlDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\AccountController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\_references.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Properties\AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\InvalidSample.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\TextSample.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\MessagingAPI.csproj" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ParameterDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\Startup.Auth.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\AuthorizedController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.Debug.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\MessageModel.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\RegistrationSuccess.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\modernizr-2.6.2.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\RouteConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelNameHelper.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Startup.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\App.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Shared\Error.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\respond.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\MessagingAPI.Tests.csproj" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\ServiceBus\MessageHub.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\AccountViewModels.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="MessagingSignalR.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/bower_components/" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MessagingSignalR" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="messages.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/dashboard/messages.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.192307">
+              <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#li#0;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#1;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/widgets/messages.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.32">
+              <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messageController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.4">
+              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messageService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.92">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35727787">
+              <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
+              <folding>
+                <element signature="e#1956#2051#0" expanded="false" />
+                <element signature="e#2053#2072#0" expanded="false" />
+                <element signature="e#3053#3129#0" expanded="false" />
+                <element signature="e#5081#5185#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.7254902">
+              <caret line="10" column="65" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authInterceptorService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authInterceptorService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.12">
+              <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/scripts/controllers/dashboard.js" />
+        <option value="$PROJECT_DIR$/.yo-rc.json" />
+        <option value="$PROJECT_DIR$/.jshintrc" />
+        <option value="$PROJECT_DIR$/.jscsrc" />
+        <option value="$PROJECT_DIR$/app/styles/transitions/avatar.less" />
+        <option value="$PROJECT_DIR$/app/scripts/httpService.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/login.js" />
+        <option value="$PROJECT_DIR$/styles/widgets/messages.less" />
+        <option value="$PROJECT_DIR$/.tmp/styles/main.css" />
+        <option value="$PROJECT_DIR$/app/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/app/scripts/authentication/authInterceptor.js" />
+        <option value="$PROJECT_DIR$/app/styles/main.less" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/bower_components/ng-scrollbar/dist/ng-scrollbar.js" />
+        <option value="$PROJECT_DIR$/app/views/login.html" />
+        <option value="$PROJECT_DIR$/app/scripts/authentication/signupController.js" />
+        <option value="$PROJECT_DIR$/app/views/register.html" />
+        <option value="$PROJECT_DIR$/app/scripts/authentication/registerController.js" />
+        <option value="$PROJECT_DIR$/styles/main.less" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/authentication/authInterceptorService.js" />
+        <option value="$PROJECT_DIR$/styles/pages/dashboard.less" />
+        <option value="$PROJECT_DIR$/app/scripts/authentication/authService.js" />
+        <option value="$PROJECT_DIR$/app/scripts/messages/messageService.js" />
+        <option value="$PROJECT_DIR$/app/styles/widgets/messages.less" />
+        <option value="$PROJECT_DIR$/app/scripts/messages/messageController.js" />
+        <option value="$PROJECT_DIR$/app/views/dashboard/messages.html" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSUnresolvedVariable</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagingSignalR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="authentication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="js-jscs-package" value="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\node_modules\gulp-jscs\node_modules\jscs" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zachary\WebstormProjects\MessagingSignalR\app\styles\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zachary\WebstormProjects\MessagingSignalR\app\styles\widgets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0364f14c-a7eb-46fe-bd61-672c57697d1b" name="Default" comment="" />
+      <created>1444063678622</created>
+      <option name="number" value="Default" />
+      <updated>1444063678622</updated>
+    </task>
+    <task id="LOCAL-00001" summary="example site">
+      <created>1444627691033</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1444627691033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="example site">
+      <created>1444628755034</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1444628755034</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382833" sideWeight="0.6039604" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382833" sideWeight="0.3960396" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32815966" sideWeight="0.5334386" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33702883" sideWeight="0.47498682" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.49583334" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32815966" sideWeight="0.46656135" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960506" sideWeight="0.47986576" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.49815693" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="example site" />
+    <option name="LAST_COMMIT_MESSAGE" value="example site" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/dashboard/messages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#li#0;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="62" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/widgets/input-underline.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44973546">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/mixins/forms.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3474427">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/forms.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3474427">
+          <caret line="406" column="4" selection-start-line="406" selection-start-column="4" selection-end-line="406" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dashboard/overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029982364">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.884615">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/yeoman.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/flat-avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/karma-jasmine/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24514991">
+          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40035275">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4615383">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/signalr/README.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="118" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/signalr/jquery.signalR.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6457565">
+          <caret line="2747" column="9" selection-start-line="2747" selection-start-column="9" selection-end-line="2747" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/README.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/src/ng-scrollbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5092251">
+          <caret line="198" column="25" selection-start-line="198" selection-start-column="14" selection-end-line="198" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vinyl-ftp/lib/delete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6455696">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/font-awesome/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24637681">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/src/ng-scrollbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ftp/lib/connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.32">
+          <caret line="1066" column="2" selection-start-line="1066" selection-start-column="2" selection-end-line="1066" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/authentication/registerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.079422385">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main-content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/pages/dashboard.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/pages/dashboard.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5216606">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/dist/ng-scrollbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3251418">
+          <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7254902">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authInterceptorService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.12">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.4">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dashboard/messages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.192307">
+          <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#li#0;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/widgets/messages.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.32">
+          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.92">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35727787">
+          <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
+          <folding>
+            <element signature="e#1956#2051#0" expanded="false" />
+            <element signature="e#2053#2072#0" expanded="false" />
+            <element signature="e#3053#3129#0" expanded="false" />
+            <element signature="e#5081#5185#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

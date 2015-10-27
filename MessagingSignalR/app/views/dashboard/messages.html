@@ -1,0 +1,47 @@
+<div>
+    <h2>Messages <small>Talk a while!</small></h2>
+    <div class="jumbotron">
+        <div class="container">
+            <section id="messaging">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1>Chat</h1>
+                    </div>
+                    <div class="col-md-3 ">
+                        <button class="btn btn-sm btn-default" ng-click="vm.clear()">Clear</button>
+                    </div>
+                    <div class="col-md-3">
+                        <span class="pull-right users">Users Connected: <h3>{{vm.userCount}}</h3></span>
+                    </div>
+                </div>
+                <ol class="messages"
+                    ng-scrollbar rebuild-on="rebuild:me" bottom>
+                    <li class="message" ng-repeat="msg in vm.messages track by msg.id">
+                        <div>
+                            <p>{{msg.content}}</p>
+                        </div>
+                        <div style="display:flex;flex-direction: column;">
+                            <i class="fa fa-user fa-lg"> - {{msg.username}}</i>
+                            <h6>{{msg.when | date: 'MM/dd/yyyy @ h:mma'}}</h6>
+                        </div>
+                    </li>
+                    <li class="message" ng-if="vm.userTyping">
+                        <div style="display:flex; align-items: center;">
+                            <i class="fa fa-user fa-lg"> - {{msg.username}}</i>
+                            <h6>{{vm.userTyping}} is typing...</h6>
+                        </div>
+                    </li>
+                </ol>
+                <form ng-submit="vm.send()">
+                    <div class="form-group">
+                        <input type="text" class="form-control input-lg input-underline"
+                               ng-model="vm.message"
+                               ng-keyup="vm.userIsTyping()"
+                            />
+                        <button class="btn btn-sm btn-default">Send</button>
+                    </div>
+                </form>
+            </section>
+        </div>
+    </div>
+</div>

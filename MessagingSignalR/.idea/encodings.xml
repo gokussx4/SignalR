@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.jscsrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.jshintrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/authentication/authInterceptorService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/authentication/authService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/authentication/registerController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/dashboard.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/messages/messageController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/messages/messageService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/styles/main.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/styles/transitions/avatar.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/styles/widgets/messages.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard/messages.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/login.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/register.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bower.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulpfile.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulpfile.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/styles/main.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/styles/pages/dashboard.less" charset="UTF-8" />
+  </component>
+</project>
