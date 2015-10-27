@@ -5,132 +5,132 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0364f14c-a7eb-46fe-bd61-672c57697d1b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\Register.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\AuthorizedController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Models\HelpPageApiModel.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Global.asax.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.sln" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\_references.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ParameterAnnotation.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Controllers\HelpController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPageConfigurationExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.resx" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\InvalidSample.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\AccountController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\packages.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\BundleConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\packages.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ApiDescriptionExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\MessageController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ParameterDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\XmlDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPage.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Startup.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\RegistrationSuccess.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Controllers\HomeControllerTest.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Shared\_Layout.cshtml" />
       <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
       <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\ImageSample.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.Designer.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.sln" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ParameterAnnotation.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.unobtrusive.min.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.signalR-2.2.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Controllers\HelpController.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate-vsdoc.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\IModelDocumentationProvider.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\BundleConfig.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.signalR-2.2.0.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.Designer.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\HomeController.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\CollectionModelDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\IdentityConfig.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Controllers\HomeControllerTest.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Global.asax" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPageConfigurationExtensions.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\WebApiConfig.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\AccountBindingModels.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\Register.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ApiDescriptionExtensions.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\ValuesController.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\packages.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\Index.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Models\HelpPageApiModel.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Project_Readme.html" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.unobtrusive.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Global.asax.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\IdentityModels.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\Api.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\EnumValueDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\Site.css" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\_ViewStart.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.Release.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Shared\_Layout.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\Configuration.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.resx" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPage.css" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\MessageController.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\App_Start\HelpPageConfig.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Providers\ApplicationOAuthProvider.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Properties\AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPageAreaRegistration.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Web.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.intellisense.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Controllers\ValuesControllerTest.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\packages.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Web.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.resx" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\FilterConfig.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Results\ChallengeResult.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\XmlDocumentationProvider.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\_ViewStart.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\AccountController.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\_references.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Properties\AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\InvalidSample.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\TextSample.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\MessagingAPI.csproj" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ParameterDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\Startup.Auth.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\AuthorizedController.cs" />
       <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.Debug.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\MessageModel.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Home\RegistrationSuccess.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\modernizr-2.6.2.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\RouteConfig.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelNameHelper.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Startup.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\App.config" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Shared\Error.cshtml" />
       <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\respond.js" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\MessagingAPI.Tests.csproj" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
       <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\Index.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\ServiceBus\MessageHub.cs" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.min.js" />
       <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\AccountViewModels.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\AccountBindingModels.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\WebApiConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.signalR-2.2.0.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.Release.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Providers\ApplicationOAuthProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Shared\Error.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\App_Start\HelpPageConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\IdentityModels.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.unobtrusive.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Properties\AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\IdentityConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\Api.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\Configuration.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\Web.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\MessagingAPI.csproj" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.intellisense.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\ValuesController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\App.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\FilterConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Global.asax" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Project_Readme.html" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Content\Site.css" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\Startup.Auth.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\SampleGeneration\TextSample.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\MessagingAPI.Tests.csproj" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Views\_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.Designer.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Web.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Controllers\HomeController.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.signalR-2.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201510111319487_messageAddition.resx" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.unobtrusive.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\EnumValueDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Results\ChallengeResult.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\fonts\glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelNameHelper.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI.Tests\Controllers\ValuesControllerTest.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Migrations\201509201701094_Initial.Designer.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Models\MessageModel.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\ServiceBus\MessageHub.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\App_Start\RouteConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\jquery.validate-vsdoc.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\CollectionModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Scripts\modernizr-2.6.2.js" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Web.Debug.config" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\IModelDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Properties\AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\zachary\Documents\GitHubVisualStudio\SignalR\MessagingSignalR\MessagingAPI\MessagingAPI\Areas\HelpPage\HelpPageAreaRegistration.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="MessagingSignalR.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -158,7 +158,7 @@
       <file leaf-file-name="messages.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/dashboard/messages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.192307">
+            <state vertical-scroll-proportion="-11.461538">
               <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#li#0;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -171,7 +171,7 @@
       <file leaf-file-name="messages.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/widgets/messages.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
+            <state vertical-scroll-proportion="0.0">
               <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding />
             </state>
@@ -181,8 +181,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.32">
-              <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+            <state vertical-scroll-proportion="-6.16">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -191,8 +191,8 @@
       <file leaf-file-name="messageController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.4">
-              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+            <state vertical-scroll-proportion="-19.76">
+              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -201,8 +201,8 @@
       <file leaf-file-name="messageService.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageService.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.92">
-              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+            <state vertical-scroll-proportion="-23.84">
+              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -211,14 +211,33 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35727787">
-              <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.6624549">
+              <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
               <folding>
-                <element signature="e#1956#2051#0" expanded="false" />
-                <element signature="e#2053#2072#0" expanded="false" />
-                <element signature="e#3053#3129#0" expanded="false" />
-                <element signature="e#5081#5185#0" expanded="false" />
+                <element signature="e#1995#2090#0" expanded="false" />
+                <element signature="e#2092#2111#0" expanded="false" />
+                <element signature="e#3092#3168#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="private.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.538462">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -226,7 +245,7 @@
       <file leaf-file-name="authService.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authService.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7254902">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="65" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="65" />
               <folding />
             </state>
@@ -236,7 +255,7 @@
       <file leaf-file-name="authInterceptorService.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authInterceptorService.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.12">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
               <folding />
             </state>
@@ -288,6 +307,7 @@
         <option value="$PROJECT_DIR$/app/scripts/messages/messageController.js" />
         <option value="$PROJECT_DIR$/app/views/dashboard/messages.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/private.json" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
@@ -295,6 +315,96 @@
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>styles</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>jshint</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>jscs</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="styles" />
+            </dependencies>
+            <task-name>html</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>images</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>fonts</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>extras</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clean</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="styles" />
+            </dependencies>
+            <task-name>connect</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="wiredep" />
+              <dependency value="connect" />
+              <dependency value="fonts" />
+              <dependency value="watch" />
+            </dependencies>
+            <task-name>serve</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>test</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>wiredep</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="connect" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="jshint" />
+              <dependency value="jscs" />
+              <dependency value="html" />
+              <dependency value="images" />
+              <dependency value="fonts" />
+              <dependency value="extras" />
+            </dependencies>
+            <task-name>builddist</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="clean" />
+            </dependencies>
+            <task-name>build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>cleanFtp</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="builddist" />
+            </dependencies>
+            <task-name>deploy</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>docs</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -362,6 +472,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -380,104 +492,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagingSignalR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="authentication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -568,16 +584,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382833" sideWeight="0.6039604" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382833" sideWeight="0.3960396" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382833" sideWeight="0.60991734" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27382833" sideWeight="0.39008266" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32815966" sideWeight="0.5334386" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32777777" sideWeight="0.5376514" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33702883" sideWeight="0.47498682" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.49583334" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32815966" sideWeight="0.46656135" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32777777" sideWeight="0.4623486" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960506" sideWeight="0.47986576" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -588,6 +603,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33702883" sideWeight="0.47498682" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -605,6 +621,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="example site" />
     <option name="LAST_COMMIT_MESSAGE" value="example site" />
@@ -710,20 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma-jasmine/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24514991">
-          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40035275">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/base.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.65384614">
@@ -738,101 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/signalr/README.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="118" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/signalr/jquery.signalR.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6457565">
-          <caret line="2747" column="9" selection-start-line="2747" selection-start-column="9" selection-end-line="2747" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/README.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/example/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/src/ng-scrollbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5092251">
-          <caret line="198" column="25" selection-start-line="198" selection-start-column="14" selection-end-line="198" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/vinyl-ftp/lib/delete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6455696">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/.bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/angular/.bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/font-awesome/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24637681">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/src/ng-scrollbar.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.576923">
@@ -844,13 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.8461537">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ftp/lib/connection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.32">
-          <caret line="1066" column="2" selection-start-line="1066" selection-start-column="2" selection-end-line="1066" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -872,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,20 +829,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5216606">
           <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/ng-scrollbar/dist/ng-scrollbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3251418">
-          <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7254902">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="65" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="65" />
           <folding />
         </state>
@@ -951,23 +842,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/authentication/authInterceptorService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.12">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageController.js">
+    <entry file="file://$PROJECT_DIR$/app/styles/widgets/messages.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.4">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.538462">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dashboard/messages.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.192307">
+        <state vertical-scroll-proportion="-11.461538">
           <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#div#1;n#li#0;n#ol#0;n#section#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -976,39 +875,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/widgets/messages.less">
+    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state vertical-scroll-proportion="-23.84">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.76">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.32">
-          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+        <state vertical-scroll-proportion="-6.16">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/messages/messageService.js">
+    <entry file="file://$PROJECT_DIR$/private.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.92">
-          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35727787">
-          <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.6624549">
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
           <folding>
-            <element signature="e#1956#2051#0" expanded="false" />
-            <element signature="e#2053#2072#0" expanded="false" />
-            <element signature="e#3053#3129#0" expanded="false" />
-            <element signature="e#5081#5185#0" expanded="false" />
+            <element signature="e#1995#2090#0" expanded="false" />
+            <element signature="e#2092#2111#0" expanded="false" />
+            <element signature="e#3092#3168#0" expanded="false" />
           </folding>
         </state>
       </provider>

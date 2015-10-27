@@ -20,8 +20,8 @@
     <file url="file://$PROJECT_DIR$/app/views/register.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bower.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gulpfile.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gulpfile.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/private.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/styles/main.less" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/styles/pages/dashboard.less" charset="UTF-8" />
   </component>

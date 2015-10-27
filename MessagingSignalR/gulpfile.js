@@ -7,6 +7,7 @@ var argv = require('yargs').argv;
 var $ = require('gulp-load-plugins')();
 var ftp = require('vinyl-ftp');
 var gutil = require('gulp-util');
+var local = require('./private.json');
 
 gulp.task('styles', function() {
   return gulp.src('app/styles/main.less')
@@ -159,21 +160,23 @@ gulp.task('build', ['clean'], function() {
 
 gulp.task('cleanFtp', function(cb) {
   var conn = ftp.create( {
-    host:     '',
-    user:     '',
-    password: '',
+    host:     local.host,
+    user:     local.username,
+    password: local.password,
     parallel: 10,
     log: gutil.log
   } );
-
-  conn.rmdir( '/site/wwwroot/chat', cb);
+  conn.rmdir( '/site/wwwroot/chat', function(error){
+    console.log(error);
+    cb();
+  });
 });
 
 gulp.task('deploy', ['cleanFtp', 'builddist'], function () {
   var conn = ftp.create( {
-    host:     '',
-    user:     '',
-    password: '',
+    host:     local.host,
+    user:     local.username,
+    password: local.password,
     parallel: 10,
     log: gutil.log
   } );
